@@ -10,3 +10,5 @@ class m
         int pno=sc.nextInt();
     }
 }
+hello boy whatsup 
+how are you?
