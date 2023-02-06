@@ -8,5 +8,5 @@ class m
         int gno=sc.nextInt();
         System.out.println("mentor name");
          
-    }
+    }vnrkvmmvorvkgvrlrv gl;bv
 }
